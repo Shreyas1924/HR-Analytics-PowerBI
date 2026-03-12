@@ -44,7 +44,7 @@ HR-Analytics-PowerBI
 
 ## Dashboard Preview
 
-<img src="https://github.com/user-attachments/assets/02cc0bf2-4fc8-435f-b445-862384b941ba" width="800"/>
+<img width="1297" height="730" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/f204d8fe-c927-4762-b888-996fdf487523" />
 
 ## How to Use
 
