@@ -27,11 +27,13 @@ The dataset contains employee information such as:
 
 ## Project Files
 
+```
 HR-Analytics-PowerBI
 │
 ├── HR_Analysis.pbix
 ├── HR_Analytics.csv
 └── README.md
+```
 
 ## Key Insights
 
