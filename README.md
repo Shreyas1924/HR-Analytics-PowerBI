@@ -42,6 +42,10 @@ HR-Analytics-PowerBI
 * Employee demographics analysis
 * Performance and workforce trends
 
+## Dashboard Preview
+
+<img src="https://github.com/user-attachments/assets/02cc0bf2-4fc8-435f-b445-862384b941ba" width="800"/>
+
 ## How to Use
 
 1. Download the repository
